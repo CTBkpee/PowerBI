@@ -1,6 +1,7 @@
 # Project Name
 
 Adventure Works - Created with Imaginary Data
+There is a presentation regarding cancer waiting times in this repository.
 
 ## Description
 
