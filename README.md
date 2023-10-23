@@ -1,8 +1,7 @@
-# Project Name
+# Power BI Projects
 
-Adventure Works - Created with Imaginary Data
-
-There is a presentation regarding cancer waiting times in this repository.
+Adventure Works - Created with Imaginary Data.
+Cancer waiting - Heat map.
 
 ## Description
 
@@ -20,7 +19,7 @@ This project demonstrates my skills in arranging data, writing DAX codes, creati
 
 ## Feedback and Contributions
 
-I welcome any feedback, suggestions, or contributions to further enhance this project. Please feel free to reach out with your thoughts or ideas.
+I welcome any feedback, suggestions, or contributions to enhance this project further. Please feel free to reach out with your thoughts or ideas.
 
 ## Contact Information
 
